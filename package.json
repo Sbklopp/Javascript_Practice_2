@@ -1,0 +1,23 @@
+{
+  "name": "javascript_practice_2",
+  "version": "1.0.0",
+  "description": "Javascript practice problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbklopp/Javascript_Practice_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbklopp/Javascript_Practice_2/issues"
+  },
+  "homepage": "https://github.com/Sbklopp/Javascript_Practice_2#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
